@@ -10,9 +10,9 @@
 ---
 
 # Required ReadMe Info for ALL MCS1243 Projects
-* **Project**   - 
-* **Your Name** - 
-* **Date**      - 
+* **Project**   - Space Invaders
+* **Your Name** - Lucas Vandenabeele
+* **Date**      - 10/30/2024
 
 <br>
 
