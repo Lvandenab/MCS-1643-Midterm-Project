@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.UI;
 public class Playerlives : MonoBehaviour
 {
-    public int lives = 5;
+    /* public int lives = 5;
     public TextMeshProUGUI numlivestmp;
 
 
@@ -32,5 +32,5 @@ public class Playerlives : MonoBehaviour
                 Destroy(gameObject);
             }
         }
-    }
+    }*/
 }
