@@ -5,8 +5,8 @@ using UnityEngine;
 using UnityEngine.UI;
 public class Playerlives : MonoBehaviour
 {
-    /* public int lives = 5;
-    public TextMeshProUGUI numlivestmp;
+    public int lives = 5;
+    /*public TextMeshProUGUI numlivestmp;
 
 
     // Start is called before the first frame update
@@ -19,7 +19,7 @@ public class Playerlives : MonoBehaviour
     void Update()
     {
         numlivestmp.text = lives.ToString();
-    }
+    }*/
     
     private void OnTriggerEnter(Collider other)
     {
@@ -32,5 +32,5 @@ public class Playerlives : MonoBehaviour
                 Destroy(gameObject);
             }
         }
-    }*/
+    }
 }
